@@ -1,3 +1,4 @@
+//program that receives a real number and prints its module
 #include <stdio.h>
 int main (){
     float num;
