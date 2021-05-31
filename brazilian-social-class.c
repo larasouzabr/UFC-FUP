@@ -1,3 +1,5 @@
+//program that receives family income and prints social class according to the SAE 2012 
+
 #include <stdio.h>
 int main (){
    float renda;
